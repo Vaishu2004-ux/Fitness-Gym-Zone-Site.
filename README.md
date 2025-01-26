@@ -39,7 +39,7 @@ Clone the repository:
    ```bash
    git clone https://github.com/<vaishu2004-ux>/<Fitness-Gym-Zone-Site.>.git
    
-### *Customization:
+### *Customization:-
 
 You can customize the hero section to match your gym's branding and messaging. Here are some key files and components you might want to modify:
 
@@ -68,6 +68,11 @@ This project is licensed under the MIT License.
 ### *Contributing:
 
 Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
+
+Live Demo
+
+View the live project here: Fitness Gym Website
+
 
 ### *Contact:
 
