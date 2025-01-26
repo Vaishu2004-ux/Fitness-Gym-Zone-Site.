@@ -37,7 +37,7 @@ A responsive and modern fitness website featuring multiple sections such as bene
 
 Clone the repository:
    ```bash
-   git clone https://github.com/<vaishu>/<>.git
+   git clone https://github.com/<vaishu2004-ux>/<Fitness-Gym-Zone-Site.>.git
    
 ### *Customization:
 
