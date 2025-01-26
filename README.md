@@ -65,4 +65,11 @@ style.css: Modify the styles for the hero section, such as background colors, ty
 
 This project is licensed under the MIT License.
 
+### *Contributing:
+
+Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
+
+### *
+
+
 
