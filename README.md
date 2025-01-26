@@ -94,6 +94,7 @@ https://github.com/Vaishu2004-ux/Fitness-Gym-Zone-Site./blob/main/D14aa1b4e-475d
 
 Special Offers Section 
 https://github.com/Vaishu2004-ux/Fitness-Gym-Zone-Site./blob/main/E71ff2201-9736-4155-ad0b-e49d2e783c0d.jpg?raw=true
+![image](https://github.com/user-attachments/assets/b90511ef-9d1f-4aa7-8b7f-7b91081cc93b)
 
 
 
