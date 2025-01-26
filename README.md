@@ -60,3 +60,9 @@ style.css: Modify the styles for the hero section, such as background colors, ty
 |-- script.js
 |-- README.md
 |-- LICENSE
+
+### *License:
+
+This project is licensed under the MIT License.
+
+
