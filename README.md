@@ -1,10 +1,10 @@
-# Fitness Gym Website
+### *Fitness Gym Website:-
 
 A responsive and modern fitness website featuring multiple sections such as benefits, pricing, offers, and more. Built with HTML, CSS, and JavaScript, the site is designed to be visually appealing and easy to navigate.
 
 ---
 
-## *Features*
+### *Features:
 
 - *Responsive Design*: Adapts seamlessly to different screen sizes (mobile, tablet, desktop).
 - *Navigation Bar*: Smooth scrolling and easy navigation between sections.
@@ -18,7 +18,7 @@ A responsive and modern fitness website featuring multiple sections such as bene
 
 ---
 
-## *Technologies Used*
+### *Technologies Used:
 
 - *HTML5*: Semantic structure for the webpage.
 - *CSS3*: Styling and responsive design.
@@ -27,17 +27,17 @@ A responsive and modern fitness website featuring multiple sections such as bene
 
 ---
 
-## *Getting Started*
+### *Getting Started:-
 
-### *Prerequisites*
+# Prerequisites.
 - A modern browser (e.g., Chrome, Firefox, Safari).
 - Basic knowledge of HTML, CSS, and JavaScript.
 
-### *Installation*
+# Installation.
 
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/<username>/<repository-name>.git
+   git clone https://github.com/<vaishu>/<>.git
    
 ### *Customization:
 
@@ -69,7 +69,9 @@ This project is licensed under the MIT License.
 
 Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
 
-### *
+### *Contact:
+
+For questions or feedback, reach out at [morev3516@gmail.com].
 
 
 
