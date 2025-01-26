@@ -37,7 +37,7 @@ A responsive and modern fitness website featuring multiple sections such as bene
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/<repository-name>.git
+   git clone https://github.com/<Vaishu2004-ux>/<Fitness-Gym-Zone-Site.>.git
 
 2. Navigate to the project folder:
 
@@ -45,3 +45,77 @@ cd <Fitness-Gym-Zone-Site.>
 
 
 3. Open the index.html file in a browser or use Live Server in VS Code.
+
+Live Demo
+
+View the live project here: Fitness Gym Website
+
+
+---
+
+Project Structure
+
+|-- images/
+|   |-- home.jpg
+|   |-- benefits.jpg
+|   |-- pricing.jpg
+|   |-- explore.jpg
+|   |-- offers.jpg
+|-- index.html
+|-- style.css
+|-- script.js
+|-- README.md
+|-- LICENSE
+
+
+---
+
+Screenshots
+
+Home Section
+
+
+
+Benefits Section
+
+
+
+Pricing Section
+
+
+
+Services Section 
+
+
+
+Special Offers Section 
+
+
+
+
+---
+
+License
+
+This project is licensed under the MIT License.
+
+
+---
+
+Contributing
+
+Contributions are welcome! Feel free to fork this repository, create a feature branch, and submit a pull request.
+
+
+---
+
+Contact
+
+For questions or feedback, reach out at [morev3516@gmail.com].
+
+---
+
+### **How to Customize**
+1. Replace `<Vaishu2004-ux>` and `<Fitness-Gym-Zone-Site.>` with your actual GitHub username and repository name.
+2. Replace `[morev3516@gmail.com]` with your contact email.
+3. Update image file names and screenshots if they differ.
