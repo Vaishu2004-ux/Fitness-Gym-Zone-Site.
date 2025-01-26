@@ -46,3 +46,17 @@ You can customize the hero section to match your gym's branding and messaging. H
 index.html: Update the hero heading, video/image, and call-to-action buttons.
 
 style.css: Modify the styles for the hero section, such as background colors, typography, button styles, and scroll down indicator. Feel free to customize the code and design to align with your gym's unique identity and goals.
+
+### *Project Structure:
+
+|-- images/
+|   |-- home.jpg
+|   |-- benefits.jpg
+|   |-- pricing.jpg
+|   |-- explore.jpg
+|   |-- offers.jpg
+|-- index.html
+|-- style.css
+|-- script.js
+|-- README.md
+|-- LICENSE
