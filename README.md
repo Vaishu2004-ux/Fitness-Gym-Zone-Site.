@@ -78,7 +78,7 @@ https://github.com/Vaishu2004-ux/Fitness-Gym-Zone-Site./blob/main/A77c7a7ab-5940
 
 
 Benefits Section
-
+https://github.com/Vaishu2004-ux/Fitness-Gym-Zone-Site./blob/main/Ba1835096-890c-4c61-9856-3ae9c6ee9762.jpg?raw=true
 
 
 Pricing Section
