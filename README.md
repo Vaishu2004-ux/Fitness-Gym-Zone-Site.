@@ -84,6 +84,7 @@ https://github.com/Vaishu2004-ux/Fitness-Gym-Zone-Site./blob/main/Ba1835096-890c
 
 Pricing Section
 https://github.com/Vaishu2004-ux/Fitness-Gym-Zone-Site./blob/main/Cb611d398-2454-4395-a7eb-d7582309c148.jpg?raw=true
+![image](https://github.com/user-attachments/assets/4cd408b6-936e-46d6-9147-41afcbac970a)
 
 
 Services Section 
