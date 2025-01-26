@@ -74,6 +74,7 @@ Screenshots
 
 Home Section
 https://github.com/Vaishu2004-ux/Fitness-Gym-Zone-Site./blob/main/A77c7a7ab-5940-4e51-a4f4-0595f222c844.jpg?raw=true
+![image](https://github.com/user-attachments/assets/67fb917a-8fda-45a5-b234-29c0fc5d61dd)
 
 
 Benefits Section
