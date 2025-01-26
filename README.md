@@ -46,10 +46,6 @@ cd <Fitness-Gym-Zone-Site.>
 
 3. Open the index.html file in a browser or use Live Server in VS Code.
 
-Live Demo
-
-View the live project here: Fitness Gym Website
-
 
 ---
 
